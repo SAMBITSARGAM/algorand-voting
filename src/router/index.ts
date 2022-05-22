@@ -11,7 +11,7 @@ const routes = [
     },
     {
         path: '/',
-        name: 'Upcoming Voting',
+        name: 'Ongoing Voting',
         component: UpcomingMatches
     },
     {
