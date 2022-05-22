@@ -18,7 +18,7 @@ We wanted to build a **Decentralized Voting System using Blockchain** .After rea
 * 
 ## General Voting Diagram
 ![voting-diagram](https://github.com/SAMBITSARGAM/algorand-voting/blob/main/2020-04-22-21.png)
-## How we built it
+## How i built it
 We Know that :-
 "A blockchain is a time-stamped decentralized series of fixed records that contains data of any size is controlled by a large network of computers that are scattered around the globe and not owned by a single organization. Every block is secured and connected with each other using hashing technology which protects it from being tempered by an unauthorized person."
 * The contracts.py file contains the smart contract code and is written with the PyTeal library. In this example, a new smart contract is deployed for each new auction. And as we described in the overview, every auction needs to support creating, setting up, placing a bid, and closing out an auction. In a bit, we’ll take you through where each of these scenarios is represented in the code.
