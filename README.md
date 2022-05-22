@@ -5,7 +5,7 @@
 * Pyteal as Backend
 
 ## Inspiration
-We wanted to build a **Decentralized Voting System using Blockchain** .After read the hackathon readme file we wanted to made a vue app on the algo-testnet . In their People can Vote their Favourite team . we are making this voting app of the state cricket teams.
+I  wanted to build a **Decentralized Voting System using Blockchain** .After read the hackathon readme file we wanted to made a vue app on the algo-testnet . In their People can Vote their Favourite team . we are making this voting app of the state cricket teams.
  **Using blockchain, voting process can be made more secure, transparent, immutable, and reliable
 
 ## Advantages
@@ -15,7 +15,7 @@ We wanted to build a **Decentralized Voting System using Blockchain** .After rea
 * Faster
 * Transparent
 * Only Creator can Choose Winner.
-* 
+ 
 ## General Voting Diagram
 ![voting-diagram](https://github.com/SAMBITSARGAM/algorand-voting/blob/main/2020-04-22-21.png)
 ## How i built it
